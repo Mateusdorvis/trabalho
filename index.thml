@@ -1,1 +1,18 @@
+<html>
+<style>
+*{
+marign:0;
+padding:0;
+box-sizing: border-box;
+}
+body{
+background-color: red;
+}
+
+</style>
+<body>
+<h1> hello world </h1>
+
+</body>
+</html>
 
